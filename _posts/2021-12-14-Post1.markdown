@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 title:  "EXO’s “Monster” Becomes Their 2nd MV To Hit 400 Million Views"
 #date:   2021-12-13 08:17:16 +0700
 categories: jekyll Cat2
