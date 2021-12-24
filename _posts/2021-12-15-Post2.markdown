@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: posts
 title:  "Exo are back: K-pop boy band release ‘Don’t Fight The Feeling’ album as Lay, D.O. and Xiumin return"
 #date:   2021-12-13 08:17:16 +0700
 categories: jekyll Cat3

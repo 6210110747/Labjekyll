@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  "Best Singer Award (Male)"
 #date:   2021-12-13 08:17:16 +0700
 categories: jekyll Cat1
